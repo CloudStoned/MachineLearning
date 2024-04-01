@@ -1,4 +1,5 @@
 *.csv
+.ipynb_checkpoints
 data/
 Midterm/00_train
 Midterm/Act2_Images
